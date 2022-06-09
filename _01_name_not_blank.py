@@ -14,4 +14,4 @@ def not_blank(question):
 
 
 # Main routine goes here
-name = not_blank("Name:")
+name = not_blank("Name: ")
