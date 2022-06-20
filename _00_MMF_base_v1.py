@@ -26,7 +26,7 @@ def not_blank(question):
 # Loop to get ticket details 
 
   # Get name (can't be blank)
-
+name = not_blank("Name: ")
   # Get age (between 12 and 130)
 
   # Calculate  ticket price:
@@ -41,4 +41,3 @@ def not_blank(question):
 # Calculate Total sales and profit
 
 # Output data to text file
-
